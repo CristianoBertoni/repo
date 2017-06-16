@@ -9,8 +9,12 @@ linha 02 - teco incluido -
 
 linha 02,5
 
-linha (tres) #aqui tem que dar conflito# 03
+linha (tres) 
+
+CONFLITOS RESOLVIDOS
 
 outro conflito na linha 4
 
 
+
+done
